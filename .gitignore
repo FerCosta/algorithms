@@ -1,0 +1,35 @@
+# Arquivos de compilação e executáveis
+*.o
+*.out
+
+# Arquivos de depuração
+*.dSYM/
+
+# Arquivos temporários
+*~
+
+# Diretório de build
+/build/
+
+# Arquivos de configuração específicos do sistema
+configure
+
+# Arquivos de compilação
+*.class
+
+# Diretório de saída do build (geralmente chamado de "bin" ou "target")
+/bin/
+/target/
+/.idea/
+
+# Arquivos de projeto específicos da IDE
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de configuração do Maven
+pom.xml
+
+# Arquivos de configuração do Gradle
+build.gradle
+.gradle/
