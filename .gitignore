@@ -1,6 +1,7 @@
 # Arquivos de compilação e executáveis
 *.o
 *.out
+*.exe
 
 # Arquivos de depuração
 *.dSYM/
@@ -33,3 +34,5 @@ pom.xml
 # Arquivos de configuração do Gradle
 build.gradle
 .gradle/
+
+.vscode
